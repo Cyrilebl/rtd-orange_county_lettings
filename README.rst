@@ -1,7 +1,7 @@
 Read the Docs for OC Lettings project
 =====================================
 
-Project Repository:
+Project here:
 -------------
 
-`Orange County Lettings <https://github.com/Cyrilebl/orange_county_lettings.git>`
+[Orange County Lettings](https://github.com/Cyrilebl/orange_county_lettings.git)
