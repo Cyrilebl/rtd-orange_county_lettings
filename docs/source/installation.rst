@@ -23,15 +23,15 @@ Create and activate the virtual environment
 
 .. code-block:: console
 
-python -m venv env
-env\Scripts\activate
+   python -m venv env
+   env\Scripts\activate
 
 **macOS/Linux**
 
 .. code-block:: console
 
-python3 -m venv env
-source env/bin/activate
+   python3 -m venv env
+   source env/bin/activate
 
 
 Install dependencies
