@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Read the Docs for OC Lettings project
+=====================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Project Repository:
+-------------
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+`Orange County Lettings <https://github.com/Cyrilebl/orange_county_lettings.git>`
