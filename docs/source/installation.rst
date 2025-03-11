@@ -1,12 +1,11 @@
 Installation
 ============
 
-.. _installation:
+
+.. _clone-repo:
 
 Clone the repository
 --------------------
-
-.. _clone-repo:
 
 .. code-block:: console
 
@@ -14,10 +13,10 @@ Clone the repository
    cd orange_county_lettings
 
 
+.. _create-virtualenv:
+
 Create and activate the virtual environment
 -------------------------------------------
-
-.. _create-virtualenv:
 
 **Windows**
 
@@ -34,10 +33,10 @@ Create and activate the virtual environment
    source env/bin/activate
 
 
+.. _install-dependencies:
+
 Install dependencies
 --------------------
-
-.. _install-dependencies:
 
 .. code-block:: console
 
