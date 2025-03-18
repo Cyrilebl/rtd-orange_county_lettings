@@ -9,7 +9,7 @@ Clone the repository
 
 .. code-block:: console
 
-   git clone https://github.com/Cyrilebl/orange_county_lettings.git
+   git clone https://gitlab.com/tidebryt/orange-county-lettings.git
    cd orange_county_lettings
 
 

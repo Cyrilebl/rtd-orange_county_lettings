@@ -1,0 +1,6 @@
+#### Base de données
+
+#### Panel d'administration
+
+- Aller sur `http://localhost:8000/admin`
+- Connectez-vous avec l'utilisateur `admin`, mot de passe `Abc1234!`
