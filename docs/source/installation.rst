@@ -2,8 +2,6 @@ Installation
 ============
 
 
-.. _clone-repo:
-
 Clone the repository
 --------------------
 
@@ -12,8 +10,6 @@ Clone the repository
    git clone https://gitlab.com/tidebryt/orange-county-lettings.git
    cd orange_county_lettings
 
-
-.. _create-virtualenv:
 
 Create and activate the virtual environment
 -------------------------------------------
@@ -32,8 +28,6 @@ Create and activate the virtual environment
    python3 -m venv env
    source env/bin/activate
 
-
-.. _install-dependencies:
 
 Install dependencies
 --------------------

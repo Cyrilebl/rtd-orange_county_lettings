@@ -1,4 +1,4 @@
-Admin interface
+Admin Interface
 ===============
 
 To access the admin interface, follow these steps:

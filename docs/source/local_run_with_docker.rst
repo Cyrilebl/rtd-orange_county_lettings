@@ -9,10 +9,7 @@ To start the server locally using Docker Hub image, run the following command:
 
 Then, open `http://localhost:8000/` in a web browser.
 
-Managing the Container
-----------------------
-
-Use the following commands to manage the Docker container:
+To manage the Docker container, use the following commands:
 
 - **Stop the container**:  
   

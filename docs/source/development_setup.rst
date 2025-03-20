@@ -1,8 +1,6 @@
-Development setup
+Development Setup
 =================
 
-
-.. _virtual_environment:
 
 Virtual environment
 -------------------
@@ -14,10 +12,8 @@ In the root of your project, create a `.env` file and add the following variable
     DEBUG=True
     ALLOWED_HOSTS=localhost
     SECRET_KEY=<secret_key>
-    SENTRY_DSN=<sentry_url>
+    SENTRY_DSN=<sentry_project_url>
 
-
-.. _linting:
 
 Linting
 -------
@@ -29,8 +25,6 @@ To check code quality, use `flake8`:
    flake8
 
 
-.. _unit_tests:
-
 Unit tests
 ----------
 
@@ -39,3 +33,27 @@ To run the unit tests, use `pytest`:
 .. code-block:: console
 
    pytest
+
+
+Coverage
+--------
+
+To check the code coverage, use `coverage`:
+
+.. code-block:: console
+
+   coverage run -m pytest
+   coverage report
+
+
+Error monitoring
+----------------
+
+The application uses **Sentry** for error and event logging.
+
+1. Create an account on `Sentry <https://sentry.io/>`.
+2. Add your Sentry project URL to the `.env` file under the `SENTRY_DSN` variable:
+
+.. code-block:: text
+
+   SENTRY_DSN=<sentry_project_url>
