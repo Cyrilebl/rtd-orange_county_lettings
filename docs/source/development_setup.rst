@@ -31,7 +31,7 @@ To check code quality, use `flake8`:
 
 .. _unit_tests:
 
-Unit Tests
+Unit tests
 ----------
 
 To run the unit tests, use `pytest`:

@@ -7,4 +7,4 @@ To start the server locally, run the following command:
 
    python manage.py runserver
 
-Then, open `http://localhost:8000` in a web browser.
+Then, open `http://localhost:8000/` in a web browser.

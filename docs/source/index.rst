@@ -19,3 +19,5 @@ Contents
    development_setup
    local_run_without_docker
    local_run_with_docker
+   database
+   admin_interface
