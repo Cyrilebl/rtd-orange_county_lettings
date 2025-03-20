@@ -51,7 +51,7 @@ Error monitoring
 
 The application uses **Sentry** for error and event logging.
 
-1. Create an account on `Sentry <https://sentry.io/>`.
+1. Create an account on `Sentry <https://sentry.io/>`_.
 2. Add your Sentry project URL to the `.env` file under the `SENTRY_DSN` variable:
 
 .. code-block:: text
