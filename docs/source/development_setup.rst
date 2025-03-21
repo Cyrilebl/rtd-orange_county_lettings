@@ -12,7 +12,6 @@ In the root of your project, create a `.env` file and add the following variable
     DEBUG=True
     ALLOWED_HOSTS=localhost
     SECRET_KEY=<secret_key>
-    SENTRY_DSN=<sentry_project_url>
 
 
 Linting
@@ -50,10 +49,4 @@ Error monitoring
 ----------------
 
 The application uses **Sentry** for error and event logging.
-
-1. Create an account on `Sentry <https://sentry.io/>`_.
-2. Add your Sentry project URL to the `.env` file under the `SENTRY_DSN` variable:
-
-.. code-block:: text
-
-   SENTRY_DSN=<sentry_project_url>
+Please ask the admin to add you to the Sentry project.
