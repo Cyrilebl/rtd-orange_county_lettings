@@ -5,7 +5,7 @@ To start the server locally using Docker Hub image, run the following command:
 
 .. code-block:: console
 
-   docker pull tidebryt/orange-lettings:latest && docker run --env-file .env -p 8000:8000 --name oc-lettings -d tidebryt/orange-lettings:latest
+   docker pull tidebryt/orange-lettings:latest && docker run -p 8000:8000 --name oc-lettings -d tidebryt/orange-lettings:latest
 
 Then, open `http://localhost:8000/` in a web browser.
 
